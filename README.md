@@ -7,6 +7,8 @@ For questions please contact Yufeng Yang, f248yang@uwaterloo.ca.
 
 ## Results
 ### Simulation Results
+![output](https://github.com/user-attachments/assets/9505f693-7f03-408d-9f9a-6faa4f83d273)
+
 
 ### Scenario One: Obstacle and Human Interaction
 <!-- [![Watch the video](https://img.youtube.com/vi/yXRH-UHOn6I/maxresdefault.jpg)](https://youtu.be/yXRH-UHOn6I) -->

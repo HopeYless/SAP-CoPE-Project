@@ -8,6 +8,7 @@ Authored by, Minghao Ning*, Yufeng Yang*, Shucheng Huang, Jiaming Zhong, Keqi Sh
 For questions please contact Yufeng Yang, f248yang@uwaterloo.ca.
 ## Overall Structure
 
+[ProposedMethod-v3.pdf](https://github.com/user-attachments/files/19543135/ProposedMethod-v3.pdf)
 
 ## Simulation Results
 ![output](https://github.com/user-attachments/assets/9505f693-7f03-408d-9f9a-6faa4f83d273)

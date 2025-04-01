@@ -10,7 +10,7 @@ For questions, please contact Yufeng Yang, f248yang@uwaterloo.ca.
 ![Overall Framworls](https://github.com/user-attachments/assets/caf29e4a-bce9-4b99-aea1-c811d92746c3)
 
 ## Simulation Results
-![output](https://github.com/user-attachments/assets/9505f693-7f03-408d-9f9a-6faa4f83d273)
+![output2](https://github.com/user-attachments/assets/96531ca2-e11f-4cca-9e38-e4d0a004e231)
 
 
 <!-- ### Scenario One: Obstacle and Human Interaction -->

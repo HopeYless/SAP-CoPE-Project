@@ -23,7 +23,7 @@ For questions please contact Yufeng Yang, f248yang@uwaterloo.ca.
 
 ### Other Scenarios not Included in Paper
 ### Single Person Interaction
-[![Watch the video](https://img.youtube.com/vi/QVE9bT__44/maxresdefault.jpg)](https://www.youtube.com/watch?v=-QVE9bT__44)
+[![Watch the video](https://img.youtube.com/vi/-QVE9bT__44/maxresdefault.jpg)](https://www.youtube.com/watch?v=-QVE9bT__44)
 
 ### Two People Interaction
 [![Watch the video](https://img.youtube.com/vi/bxoDXpwp38g/maxresdefault.jpg)](https://www.youtube.com/watch?v=bxoDXpwp38g)

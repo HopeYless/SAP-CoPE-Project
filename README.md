@@ -1,14 +1,13 @@
 # MVSLab SAP-CoPE Project
 Official Repo of "SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes" 
 
-Authored by, Minghao Ning*, Yufeng Yang*, Shucheng Huang, Jiaming Zhong, Keqi Shu, Chen Sun, Ehsan Hashemi and Amir Khajepour. 
+Authored by Minghao Ning*, Yufeng Yang*, Shucheng Huang, Jiaming Zhong, Keqi Shu, Chen Sun, Ehsan Hashemi and Amir Khajepour. 
 
-\* indicates equal contributations. 
+\* indicates equal contributions. 
 
-For questions please contact Yufeng Yang, f248yang@uwaterloo.ca.
+For questions, please contact Yufeng Yang, f248yang@uwaterloo.ca.
 ## Overall Structure
-
-[ProposedMethod-v3.pdf](https://github.com/user-attachments/files/19543135/ProposedMethod-v3.pdf)
+![Overall Framworls](https://github.com/user-attachments/assets/caf29e4a-bce9-4b99-aea1-c811d92746c3)
 
 ## Simulation Results
 ![output](https://github.com/user-attachments/assets/9505f693-7f03-408d-9f9a-6faa4f83d273)

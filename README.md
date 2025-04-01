@@ -22,7 +22,7 @@ For questions, please contact Yufeng Yang, f248yang@uwaterloo.ca.
 - ### Group Interaction
 [![Watch the video](https://img.youtube.com/vi/mxEISI-pIPE/maxresdefault.jpg)](https://www.youtube.com/watch?v=mxEISI-pIPE)
 
-## Other Experiments not Included in Paper
+## Other Experiments are Not Included in Paper
  - ### Single Person Interaction
 [![Watch the video](https://img.youtube.com/vi/-QVE9bT__44/maxresdefault.jpg)](https://www.youtube.com/watch?v=-QVE9bT__44)
 

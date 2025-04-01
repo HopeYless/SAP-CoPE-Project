@@ -17,7 +17,7 @@ For questions, please contact Yufeng Yang, f248yang@uwaterloo.ca.
 <!-- [![Watch the video](https://img.youtube.com/vi/yXRH-UHOn6I/maxresdefault.jpg)](https://youtu.be/yXRH-UHOn6I) -->
 ## Paper Experiments
 - ### Yielding
-[![Watch the video](https://img.youtube.com/vi/zujStRe5opY/maxresdefault.jpg)=250x250](https://www.youtube.com/watch?v=zujStRe5opY)
+[![Watch the video](https://img.youtube.com/vi/zujStRe5opY/maxresdefault.jpg)](https://www.youtube.com/watch?v=zujStRe5opY)
 
 - ### Group Interaction
 [![Watch the video](https://img.youtube.com/vi/mxEISI-pIPE/maxresdefault.jpg)](https://www.youtube.com/watch?v=mxEISI-pIPE)

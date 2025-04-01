@@ -35,10 +35,10 @@ For questions, please get in touch with Yufeng Yang, f248yang@uwaterloo.ca.
  - ### Group Interaction 2
 [![Watch the video](https://img.youtube.com/vi/RbLEu5zwzKo/maxresdefault.jpg)](https://www.youtube.com/watch?v=RbLEu5zwzKo)
 
-## Citation
+<!-- ## Citation
 If you find this work useful, please consider citing:
 ```
-<!-- @article{ning2025SAP,
+@article{ning2025SAP,
   title={SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with InfrastructureSensor Nodes},
   author={Minghao Ning*, Yufeng Yang*, Shucheng Huang, Jiaming Zhong, Keqi Shu, Chen Sun, Ehsan Hashemi and Amir Khajepour},
 }

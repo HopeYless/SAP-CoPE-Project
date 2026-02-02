@@ -3,7 +3,7 @@ Official Repo of "SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimat
 
 Authored by Minghao Ning*, Yufeng Yang*, Shucheng Huang, Jiaming Zhong, Keqi Shu, Chen Sun, Ehsan Hashemi and Amir Khajepour. 
 
-\* indicates equal contributions. 
+\* indicates equal contribution, authors listed in alphabetical order. 
 
 For questions, please get in touch with Yufeng Yang, f248yang@uwaterloo.ca.
 ## Overall Structure
@@ -16,13 +16,14 @@ For questions, please get in touch with Yufeng Yang, f248yang@uwaterloo.ca.
 <!-- ### Scenario One: Obstacle and Human Interaction -->
 <!-- [![Watch the video](https://img.youtube.com/vi/yXRH-UHOn6I/maxresdefault.jpg)](https://youtu.be/yXRH-UHOn6I) -->
 ## Experiments in Paper 
+
+## Other Experiments Not Included in Paper
 - ### Yielding
 [![Watch the video](https://img.youtube.com/vi/zujStRe5opY/maxresdefault.jpg)](https://www.youtube.com/watch?v=zujStRe5opY)
 
 - ### Group Interaction
 [![Watch the video](https://img.youtube.com/vi/mxEISI-pIPE/maxresdefault.jpg)](https://www.youtube.com/watch?v=mxEISI-pIPE)
 
-## Other Experiments Not Included in Paper
  - ### Single Person Interaction
 [![Watch the video](https://img.youtube.com/vi/-QVE9bT__44/maxresdefault.jpg)](https://www.youtube.com/watch?v=-QVE9bT__44)
 

@@ -17,7 +17,8 @@ For questions, please get in touch with Yufeng Yang, f248yang@uwaterloo.ca.
 <!-- [![Watch the video](https://img.youtube.com/vi/yXRH-UHOn6I/maxresdefault.jpg)](https://youtu.be/yXRH-UHOn6I) -->
 ## Experiments in Paper 
 
-## Other Experiments Not Included in Paper
+
+<!-- ## Other Experiments Not Included in Paper
 - ### Yielding
 [![Watch the video](https://img.youtube.com/vi/zujStRe5opY/maxresdefault.jpg)](https://www.youtube.com/watch?v=zujStRe5opY)
 
@@ -34,7 +35,7 @@ For questions, please get in touch with Yufeng Yang, f248yang@uwaterloo.ca.
 [![Watch the video](https://img.youtube.com/vi/aMif5f1yLV4/maxresdefault.jpg)](https://www.youtube.com/watch?v=aMif5f1yLV4)
 
  - ### Group Interaction 2
-[![Watch the video](https://img.youtube.com/vi/RbLEu5zwzKo/maxresdefault.jpg)](https://www.youtube.com/watch?v=RbLEu5zwzKo)
+[![Watch the video](https://img.youtube.com/vi/RbLEu5zwzKo/maxresdefault.jpg)](https://www.youtube.com/watch?v=RbLEu5zwzKo) -->
 
 <!-- ## Citation
 If you find this work useful, please consider citing:
